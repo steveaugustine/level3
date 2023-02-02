@@ -1,0 +1,21 @@
+body{
+    background-color:#20262E;
+   
+
+  }
+.puz{
+    scale: 10%;
+    
+}  
+
+.rithin{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(4,1fr);
+}
+.steve{
+    flex: 50%;
+    padding: 0px 4px;
+
+
+}
